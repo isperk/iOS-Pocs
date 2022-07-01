@@ -1,5 +1,8 @@
-# iOS-Pocs 
+# iOS-Poc Stack
 
-## Concept tests and other magic with Swift/SwiftUi/Xcode ##
+## Little example about how use stacks in SwiftUI ##
 
-
+What use in this poc:
+* ZStack
+* VStack
+* HStack
